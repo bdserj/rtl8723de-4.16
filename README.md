@@ -9,4 +9,7 @@ TUTORIAL :
 -
 --
 ---
-    git clone 
+    git clone https://github.com/bdserj/rtl8723de-4.16.git
+    cd rtl8723de-4.16
+    chmod +x rtl8723de.sh
+    ./rtl8723de.sh
